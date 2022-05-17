@@ -10,6 +10,7 @@ namespace Calculator
 
 
             bool calculateAgain = true;
+            int result;
 
             try
             {
@@ -36,20 +37,20 @@ namespace Calculator
                     switch (operation)
                     {
                         case '1':
-                            int addition = firstNumber + secondNumber;
-                            Console.WriteLine("The result is: {0}", addition);
+                            result = firstNumber + secondNumber;
+                            Console.WriteLine("The result is: {0}", result);
                             break;
                         case '2':
-                            int minus = firstNumber - secondNumber;
-                            Console.WriteLine("The result is: {0}", minus);
+                            result = firstNumber - secondNumber;
+                            Console.WriteLine("The result is: {0}", result);
                             break;
                         case '3':
-                            int multiply = firstNumber * secondNumber;
-                            Console.WriteLine("The result is: {0}", multiply);
+                            result = firstNumber * secondNumber;
+                            Console.WriteLine("The result is: {0}", result);
                             break;
                         case '4':
-                            int divide = firstNumber / secondNumber;
-                            Console.WriteLine("The result is: {0}", divide);
+                            result = firstNumber / secondNumber;
+                            Console.WriteLine("The result is: {0}", result);
                             break;
                         case 'q':
                             calculateAgain = false;
