@@ -1,0 +1,16 @@
+C:\Users\jahan\Desktop\Computing\Computer Programming\C# Projects\Calculator\bin\Debug\net5.0\Calculator.exe
+C:\Users\jahan\Desktop\Computing\Computer Programming\C# Projects\Calculator\bin\Debug\net5.0\Calculator.deps.json
+C:\Users\jahan\Desktop\Computing\Computer Programming\C# Projects\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+C:\Users\jahan\Desktop\Computing\Computer Programming\C# Projects\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+C:\Users\jahan\Desktop\Computing\Computer Programming\C# Projects\Calculator\bin\Debug\net5.0\Calculator.dll
+C:\Users\jahan\Desktop\Computing\Computer Programming\C# Projects\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+C:\Users\jahan\Desktop\Computing\Computer Programming\C# Projects\Calculator\bin\Debug\net5.0\Calculator.pdb
+C:\Users\jahan\Desktop\Computing\Computer Programming\C# Projects\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\jahan\Desktop\Computing\Computer Programming\C# Projects\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jahan\Desktop\Computing\Computer Programming\C# Projects\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\jahan\Desktop\Computing\Computer Programming\C# Projects\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+C:\Users\jahan\Desktop\Computing\Computer Programming\C# Projects\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\jahan\Desktop\Computing\Computer Programming\C# Projects\Calculator\obj\Debug\net5.0\Calculator.dll
+C:\Users\jahan\Desktop\Computing\Computer Programming\C# Projects\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+C:\Users\jahan\Desktop\Computing\Computer Programming\C# Projects\Calculator\obj\Debug\net5.0\Calculator.pdb
+C:\Users\jahan\Desktop\Computing\Computer Programming\C# Projects\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
